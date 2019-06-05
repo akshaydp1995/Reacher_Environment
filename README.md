@@ -90,6 +90,6 @@ Follow the instructions in `Continuous_Control.ipynb` to get started with traini
 
 Rewards obtained by agent plotted as function of episodes of training is shown below :
 
-![rewards_plot](https://raw.githubusercontent.com/akshaydp1995/Reacher_Environment/master/assets/rewards.png)
+![rewards_plot](https://raw.githubusercontent.com/akshaydp1995/Reacher_Environment/master/rewards.png)
 
 Orange line represents a rolling mean of rewards for latest 100 episodes.
